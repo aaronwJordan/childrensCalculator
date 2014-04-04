@@ -1,1 +1,9 @@
 C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\bin\Debug\childrensCalculator.exe.config
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\bin\Debug\childrensCalculator.exe
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\bin\Debug\childrensCalculator.pdb
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.csprojResolveAssemblyReference.cache
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.frmMain.resources
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.Properties.Resources.resources
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.csproj.GenerateResource.Cache
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.exe
+C:\Users\AaronJordan\SkyDrive\Visual Studio\VisualStudio 2013\Projects\childrensCalculator\childrensCalculator\obj\Debug\childrensCalculator.pdb
